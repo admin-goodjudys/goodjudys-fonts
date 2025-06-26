@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Arial Rounded MT';
+    src: url('ArialRoundedMT-Light.woff2') format('woff2'),
+        url('ArialRoundedMT-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flavor_sans';
+    src: url('Flavor_sans.woff2') format('woff2'),
+        url('Flavor_sans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Rounded MT';
+    src: url('ArialRoundedMTBold.woff2') format('woff2'),
+        url('ArialRoundedMTBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
