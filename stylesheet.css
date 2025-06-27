@@ -4,7 +4,6 @@
         url('ArialRoundedMT-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
@@ -13,7 +12,6 @@
         url('Flavor_sans.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
@@ -22,6 +20,5 @@
         url('ArialRoundedMTBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
-    font-display: swap;
 }
 
